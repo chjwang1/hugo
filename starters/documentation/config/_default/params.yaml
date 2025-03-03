@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+    url: 'https://github.com/chjwang1/hugo/'
     content_dir: 'starters/documentation/content'
     branch: 'main'
   feedback:

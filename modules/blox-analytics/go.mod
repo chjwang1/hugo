@@ -1,3 +1,3 @@
-module github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics
+module github.com/chjwang1/hugo/modules/blox-analytics
 
 go 1.15

@@ -1,5 +1,5 @@
-module github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
+module github.com/chjwang1/hugo/modules/blox-seo
 
 go 1.15
 
-require github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1
+require github.com/chjwang1/hugo/modules/blox-core v0.3.1
